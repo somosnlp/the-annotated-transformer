@@ -22,7 +22,7 @@ donde se explica e implementa el paper
   
 ## Objetivo
 En primer lugar, nuestro objetivo es entender todas las piezas que componen la arquitectura
-Transformer. Para ello, vamos a explicar e implementar (de manera auto-contenida) cada una de ellas:
+Transformer. Para ello, vamos a explicar e implementar (de manera autocontenida) cada una de ellas:
 
 - [ ] Positional Encoding
 - [ ] Multi-Head Attention
